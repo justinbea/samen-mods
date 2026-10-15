@@ -1,0 +1,13 @@
+name = "Raised"
+filename = "raised-fabric-26.2-6.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/CYse4EJ2/raised-fabric-26.2-6.0.2.jar"
+hash-format = "sha512"
+hash = "af1654d8df03aa34b716820c970ffc60c80c5f6fd11aae6cd72e7792adee36dcfbc4abcb15a95a2ea5b03bed696c77eea335494a8b0368af50f0404ebb35d36b"
+
+[update]
+[update.modrinth]
+mod-id = "nCQRBEiR"
+version = "CYse4EJ2"
