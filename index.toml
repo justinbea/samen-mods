@@ -93,6 +93,11 @@ hash = "7acf0e421b5d19448fb1572d10c481760a6ffe68f452b074b1fc8c993ce1556b"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "3277c7056c5602d7cee9ae8434a2be0f34c5f33d7415148dea298be8728ed8fc"
+metafile = true
+
+[[files]]
 file = "mods/minihud.pw.toml"
 hash = "c4e9775beb3fa4a3e9db0a53881eb531bafd39580a786d200e5ff18da2b69409"
 metafile = true
