@@ -16,6 +16,11 @@ hash = "7fa9592b9948b8809018a4e7c3ca7da4d19fc5ef8c03021414cb22ae0253f083"
 metafile = true
 
 [[files]]
+file = "mods/custom-block-highlight.pw.toml"
+hash = "eebf1987fd0b1c1cbb8c8cb1c17b0061b944ab15d287ebba7a86a53c0eaa333d"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "311dec23d3af3aaf1e2004b85b95646bfe941a4dfb36a0eac38eaf8c66a5286d"
 metafile = true
@@ -133,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "a1cc22dab6bba85c1f21f0e7945700622ee2cf0a80cb23afaed0484e75fc35e8"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "ced90938fd1163665019ffdc09a3c44f1b2b0eef963ac1e8abac5ee410978612"
 metafile = true
 
 [[files]]
