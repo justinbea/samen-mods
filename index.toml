@@ -126,6 +126,11 @@ hash = "84a1ee4078568898046061003cc26c78d65ad8466dd4ea77de2582eede127135"
 metafile = true
 
 [[files]]
+file = "mods/voxelmap-updated.pw.toml"
+hash = "e7b410e043ec2b5609941b6835c483ce32650e8d7f861fdcbab0af6e61f76efd"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "a1cc22dab6bba85c1f21f0e7945700622ee2cf0a80cb23afaed0484e75fc35e8"
 metafile = true
