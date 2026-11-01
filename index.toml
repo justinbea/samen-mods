@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/redstone-multimeter.pw.toml"
-hash = "43a229c3cb5278552f83c99413584a4bfda77de6c316cf412ab8fe195ba76710"
+hash = "a981edb1675b7fdefb2f66b49402d799a26035d1d0dcc9d9a9f42d0484c8e4b5"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "a3c98b17ea14147b41b2823b6246c03de59b6ef80f1b6e5b1d92adabd23a91ae"
+hash = "7326dff013cbe7499db0fa22ac22d4546f57957f5cc6f0d9b030facd0b4b3cde"
 metafile = true
 
 [[files]]
