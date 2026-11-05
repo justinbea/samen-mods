@@ -2,3 +2,5 @@
 *.bak
 .mrpack
 .zip
+.packwizignore
+.gitignore
