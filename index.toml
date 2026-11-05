@@ -156,6 +156,11 @@ hash = "ced90938fd1163665019ffdc09a3c44f1b2b0eef963ac1e8abac5ee410978612"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "eb0b5f269171cd5b891d9bdf2c5da89698e21a71ffec1172ead75bc19411cbdc"
+metafile = true
+
+[[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
 hash = "784770b9d54a6ab880c0b3905c64ccff0adfa07a7b152fc1a057bfdcfaad706a"
 metafile = true
