@@ -1,13 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "82c561313a11160ae868d5050601a68a24c59b6c0dcde232664c224cf9d90134"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "62feaecc7c5afcf698c72f5f5edfda9562a2b2b6da30868cd36474c813073348"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "b3caf8e25c2a3487d1e0d45bd57ec3839e949d7ee4d28ae9645c4b8e76624f30"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "c5ed17434b9f7fa4daa641963566cd3337e1617957d8e77f52d3cb03aafb3b1a"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "b6e76b7a0d0355c542e5a6fca02e4ef452f6d9c0610da3b02f8554177e3bec31"
 metafile = true
 
 [[files]]
@@ -18,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "7eb393873758aef07d7123e526ab8986b656a58d0b8d01b7ac3c4825a1a02041"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "7ef52ee07bd8eaaebe8ba3af73fee0b6eed30884e92282eed582c2cce7aee8d7"
 metafile = true
 
 [[files]]
@@ -46,8 +66,18 @@ hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "aa33cb41c810c66e39c6fcea071fca1c6f8a6eaf63ecbea473f81a2708c6641a"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "8c91080e610d7c8c40ae6445d36af1cf591fe1ebf70718b3e6d4714232b23592"
 metafile = true
 
 [[files]]
@@ -61,6 +91,11 @@ hash = "810fe4980a530d12b707841396dbccce4f7a9001c05e73c989a4be1868839168"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "8c4fe8cfa2eb63ba2df48772ce83ede8b07620f44482447bda564dbd317d51a0"
+metafile = true
+
+[[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "9c88eccd75ba98abdecea94d9a9a70e085ac95034fae9d4bc79a6f9b9641f7d1"
 metafile = true
@@ -68,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "427ac639f77e4ed43b801c3597c959f96a054ecb8d531971c11f7d860748d45e"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "2ec94a86a40c1ff3d3d90e4b28033c91b74a1dbf5ce155a44154c2cc16499201"
 metafile = true
 
 [[files]]
@@ -116,6 +156,21 @@ hash = "a7038f7260b128480f8a62b12e5583240c2a94bd782c1b60e2356ec7a3843e4c"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "ade9e580a4dcb1f62a78dfce967cfe22bbfe810c05ddaaf8c94de104055fb61d"
+metafile = true
+
+[[files]]
+file = "mods/ping-to-map-xaeros.pw.toml"
+hash = "96335eb2b78abb7ea3bd29bcbb0555d3c881c33e829c5a120e56d5266da9b127"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "2b0de3a642aa5b31e503589775754c58fe4ee76c2b006b219f236f83af75e4f6"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "b234ade7fd54bb9d99c27769cd1635b18835752676d0cdd0a29af2b4146251a8"
 metafile = true
@@ -128,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/redstone-multimeter.pw.toml"
 hash = "a981edb1675b7fdefb2f66b49402d799a26035d1d0dcc9d9a9f42d0484c8e4b5"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "c64ffa1cfce64e959e4f0ca90823f4bf0d1b94fcba5e2fdb413fed78447d7dcd"
 metafile = true
 
 [[files]]
@@ -151,6 +211,11 @@ hash = "e0274d780169d81e54561b2c71ed188d6864f6bdf0d73c70ec351d925a9b2e18"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "4980ea44811b2ed29625cc7b705783cb6fa78e2d6608b5c98b69a82a9f7d881d"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "84a1ee4078568898046061003cc26c78d65ad8466dd4ea77de2582eede127135"
 metafile = true
@@ -163,6 +228,16 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "a1cc22dab6bba85c1f21f0e7945700622ee2cf0a80cb23afaed0484e75fc35e8"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "fb5af16d98267bef161288f0793c9693550668c89e339a9221c8596ad8ddf223"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "b6579fcc1fbfd5b2f765f88a96ec1d1fb91a20ed88c729d6b642b15b7bb9b975"
 metafile = true
 
 [[files]]

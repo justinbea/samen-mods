@@ -1,0 +1,13 @@
+name = "Ping to Map: Xaero's Minimap"
+filename = "ping-to-map-xaero-1.1.2+fabric-26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8YgFuv6f/versions/zixeCR81/ping-to-map-xaero-1.1.2%2Bfabric-26.2.jar"
+hash-format = "sha512"
+hash = "96b413b2aa3162ff670d7aa8ed6e08921de52b23299f188daafed06917563b67ec646b370977cbc50abb1e3d2debb48f4d21d98ea35a059110766f7cd498cc49"
+
+[update]
+[update.modrinth]
+mod-id = "8YgFuv6f"
+version = "zixeCR81"
