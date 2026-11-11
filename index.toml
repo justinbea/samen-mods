@@ -16,6 +16,11 @@ hash = "7fa9592b9948b8809018a4e7c3ca7da4d19fc5ef8c03021414cb22ae0253f083"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "7eb393873758aef07d7123e526ab8986b656a58d0b8d01b7ac3c4825a1a02041"
+metafile = true
+
+[[files]]
 file = "mods/custom-block-highlight.pw.toml"
 hash = "eebf1987fd0b1c1cbb8c8cb1c17b0061b944ab15d287ebba7a86a53c0eaa333d"
 metafile = true
@@ -123,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/redstone-multimeter.pw.toml"
 hash = "a981edb1675b7fdefb2f66b49402d799a26035d1d0dcc9d9a9f42d0484c8e4b5"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "18d343982316153f5b40b9d2e0e6ac3884b873774eec756ff67e891a4d3c22b9"
 metafile = true
 
 [[files]]
