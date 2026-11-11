@@ -6,11 +6,12 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6f6007f3e5cf3c962837b4768d2fa9f7156ae3178be5e6306da7719a7a60c0ee"
+hash = "69d16a53ec48ec3f29082a790e5165767562e7847a8267c6b5e85c7f233ebc64"
 
 [versions]
 fabric = "0.20.0"
 minecraft = "26.2"
+neoforge = "26.2.0"
 
 [options]
 acceptable-game-versions = ["26.2."]

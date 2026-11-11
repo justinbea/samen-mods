@@ -1,0 +1,13 @@
+name = "Camera Mod"
+filename = "camera-neoforge-1.1.9+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oiuNWinn/versions/v3SRbUGp/camera-neoforge-1.1.9%2B26.2.jar"
+hash-format = "sha512"
+hash = "da059b2e2bc6dd8f367455cb7d7970b2e3c5dee250581bff45bdf9336417c75a129df231a26e7b80f88b22f57da17fd08053186582be30bf9bedd095f69b41cd"
+
+[update]
+[update.modrinth]
+mod-id = "oiuNWinn"
+version = "v3SRbUGp"

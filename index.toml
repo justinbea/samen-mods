@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "250f6f7cda563380af599db2609966c401296d2a01a15b132bf74a5966b70c5d"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "82c561313a11160ae868d5050601a68a24c59b6c0dcde232664c224cf9d90134"
 metafile = true
@@ -11,8 +16,18 @@ hash = "62feaecc7c5afcf698c72f5f5edfda9562a2b2b6da30868cd36474c813073348"
 metafile = true
 
 [[files]]
+file = "mods/armorstandeditor.pw.toml"
+hash = "1463a48bb8bc19dbc6d59231a65c122e0a21e52ff74c333bbbef187a2df1e5a8"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "b3caf8e25c2a3487d1e0d45bd57ec3839e949d7ee4d28ae9645c4b8e76624f30"
+metafile = true
+
+[[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "67109fefb7d06880756d6cebd744f46383b1aaaef2ab020d2505f28913c87496"
 metafile = true
 
 [[files]]
@@ -22,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "b6e76b7a0d0355c542e5a6fca02e4ef452f6d9c0610da3b02f8554177e3bec31"
+hash = "2d7010a930dfc1963611d271fecd79efb2171074ed3af75ad6c4d84225a1241f"
 metafile = true
 
 [[files]]
@@ -78,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "8c91080e610d7c8c40ae6445d36af1cf591fe1ebf70718b3e6d4714232b23592"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "97d5de291ce8d6f2a8b1c2b1dfd7eaf2f07923ebc64939d855da85f84a05d4fd"
 metafile = true
 
 [[files]]
@@ -137,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "c4e9775beb3fa4a3e9db0a53881eb531bafd39580a786d200e5ff18da2b69409"
+hash = "4944b0d1c4ca5fd3636cde5822b45ea8699ece4415af39bebf25a89f6c8f94dd"
 metafile = true
 
 [[files]]
@@ -152,12 +172,17 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "a7038f7260b128480f8a62b12e5583240c2a94bd782c1b60e2356ec7a3843e4c"
+hash = "1af972224a9b637190ab7da2ebe70efb195b12c7ab644116803a4f23980435f1"
 metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "ade9e580a4dcb1f62a78dfce967cfe22bbfe810c05ddaaf8c94de104055fb61d"
+metafile = true
+
+[[files]]
+file = "mods/otterlib.pw.toml"
+hash = "e3b5a62b7ccc46522f4094b979733d315196bd858f6a4e605adde8d241bbfce9"
 metafile = true
 
 [[files]]
@@ -206,6 +231,11 @@ hash = "7326dff013cbe7499db0fa22ac22d4546f57957f5cc6f0d9b030facd0b4b3cde"
 metafile = true
 
 [[files]]
+file = "mods/sit.pw.toml"
+hash = "8538c586a0bbea463cbb8a5c222cf54f22eb4240d824e94292f973a47d950db3"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "e0274d780169d81e54561b2c71ed188d6864f6bdf0d73c70ec351d925a9b2e18"
 metafile = true
@@ -213,6 +243,16 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "4980ea44811b2ed29625cc7b705783cb6fa78e2d6608b5c98b69a82a9f7d881d"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "58eeccd17edf01f6b1a6edb1397d2882fab0945abcd0568b3cbc6d184759a609"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "44a6e1419b6aaa7013c9fa42049df204100f21e30f6172ff4a643bb42a5289e0"
 metafile = true
 
 [[files]]
@@ -253,6 +293,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "eb0b5f269171cd5b891d9bdf2c5da89698e21a71ffec1172ead75bc19411cbdc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/matcha-flavoured-advancement-plaques.pw.toml"
+hash = "7acc2c6dde940e552bc257963737446b80a6de86d1fe4be111ae776e033e7dbe"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Matcha Flavoured (Advancement Plaques + Better Advancements)"
+filename = "Matcha Flavoured (Advancement Plaques + Better Advancements).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/otcjeN7x/versions/A69OdXXZ/Matcha%20Flavoured%20%28Advancement%20Plaques%20%2B%20Better%20Advancements%29.zip"
+hash-format = "sha512"
+hash = "7ee59cb53f57c0a2a0e46fdcc50ca5a97444811ade92a5aa462af96bf2ceb1822af96d8dd55947b96da210b3827dc1e550362f77fc5c01ab630fa2660fba0765"
+
+[update]
+[update.modrinth]
+mod-id = "otcjeN7x"
+version = "A69OdXXZ"
