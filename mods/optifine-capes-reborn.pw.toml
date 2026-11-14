@@ -1,0 +1,13 @@
+name = "Optifine Capes Reborn"
+filename = "optifine_capes_reborn-1.0.1-26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k3S5nd6q/versions/yGa74vNd/optifine_capes_reborn-1.0.1-26.2.jar"
+hash-format = "sha512"
+hash = "2ca29fdf81ffc0b309aa1ce941eb92d1ace3ea988842eeb3e34fe427ee788c804c82d2055cdf672224b5176450897ff5dd9520d1f538a71da8aaa69e21d024e7"
+
+[update]
+[update.modrinth]
+mod-id = "k3S5nd6q"
+version = "yGa74vNd"

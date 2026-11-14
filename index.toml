@@ -26,11 +26,6 @@ hash = "b3caf8e25c2a3487d1e0d45bd57ec3839e949d7ee4d28ae9645c4b8e76624f30"
 metafile = true
 
 [[files]]
-file = "mods/camera-mod.pw.toml"
-hash = "67109fefb7d06880756d6cebd744f46383b1aaaef2ab020d2505f28913c87496"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "c5ed17434b9f7fa4daa641963566cd3337e1617957d8e77f52d3cb03aafb3b1a"
 metafile = true
@@ -67,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "0f1a6dc865f165de1be35db5e54d04e2ae6cc3c342a1cbcd3b2e9cfd90046af4"
+hash = "b116e6218aeb033defa1385f8490ffdcbab19607d9af44f9563d17c61a5fe1d5"
 metafile = true
 
 [[files]]
@@ -157,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "4944b0d1c4ca5fd3636cde5822b45ea8699ece4415af39bebf25a89f6c8f94dd"
+hash = "c4e9775beb3fa4a3e9db0a53881eb531bafd39580a786d200e5ff18da2b69409"
 metafile = true
 
 [[files]]
@@ -178,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "ade9e580a4dcb1f62a78dfce967cfe22bbfe810c05ddaaf8c94de104055fb61d"
+metafile = true
+
+[[files]]
+file = "mods/optifine-capes-reborn.pw.toml"
+hash = "b97389eb12ad32116121a09230b5168d04788c1fd1a05396548c9abea5220109"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "c64ffa1cfce64e959e4f0ca90823f4bf0d1b94fcba5e2fdb413fed78447d7dcd"
+hash = "d96d351f4338b214fc9a4bdea0f78f6030a7a1a578dda5e5d4233f0318c93ecc"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "4980ea44811b2ed29625cc7b705783cb6fa78e2d6608b5c98b69a82a9f7d881d"
+hash = "abac6075bedee55c0d939e5a40f508968db7876deb07b8866c14b8c238cb617f"
 metafile = true
 
 [[files]]
@@ -258,11 +258,6 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "84a1ee4078568898046061003cc26c78d65ad8466dd4ea77de2582eede127135"
-metafile = true
-
-[[files]]
-file = "mods/voxelmap-updated.pw.toml"
-hash = "e7b410e043ec2b5609941b6835c483ce32650e8d7f861fdcbab0af6e61f76efd"
 metafile = true
 
 [[files]]
